@@ -1,0 +1,8 @@
+streamlit
+numpy
+base64
+json
+io
+nltk
+spacy
+gliner
