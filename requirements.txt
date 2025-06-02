@@ -1,4 +1,5 @@
 streamlit
+sentencepiece
 numpy
 nltk
 spacy
