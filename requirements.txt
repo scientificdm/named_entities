@@ -1,7 +1,7 @@
 streamlit
 transformers
 sentencepiece == 0.1.99
-numpy
+numpy == 1.26.4
 nltk
 spacy
 gliner
