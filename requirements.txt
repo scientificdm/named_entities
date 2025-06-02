@@ -1,6 +1,5 @@
 streamlit
 numpy
-io
 nltk
 spacy
 gliner
