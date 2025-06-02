@@ -2,7 +2,7 @@ streamlit
 transformers
 sentencepiece == 0.1.99
 numpy == 1.26.4
-nltk
+nltk == 3.8.1
 spacy
 gliner
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz#egg=en_core_web_sm
